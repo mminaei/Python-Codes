@@ -1,2 +1,2 @@
 # Python-Codes
-some useful python codes for geoscience programs
+Some useful python codes for geoscience programs. These are not my codes.
